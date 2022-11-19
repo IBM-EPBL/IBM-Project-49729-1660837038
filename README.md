@@ -9,10 +9,7 @@ There are a number of users who purchase products online and make payments throu
 # DATA COLLECTION & ANALYSIS
 The given data contains both phishing and benign URLs of websites with various website content-based features. The above mentioned dataset is uploaded to the 'final deliverables/data' folder of this repository. From data distribution graph and correlation matrix, we can conclude that the 16 of the given features do not have much impact on the result. So they are removed from further processing. The final set of features that are used to build the model are shown in the figure below.
 
-
-
-
-
+![199578614-f8cb7f81-9da0-43a8-b6eb-5381970a9768](https://user-images.githubusercontent.com/113712038/202847292-7f4cf056-f412-4d2d-8f50-91a2d40b9517.png)
 
 # MODELS &TRAINING
 Before stating the ML model training, the data is split into 80-20 i.e., 8844 training samples & 2211 testing samples. From the dataset, it is clear that this is a supervised machine learning task. There are two major types of supervised machine learning problems, called classification and regression.
