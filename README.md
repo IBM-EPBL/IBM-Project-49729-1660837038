@@ -19,5 +19,5 @@ This data set comes under classification problem, as the input URL is classified
         *Random Forest 
         *XGBoost
         *Support Vector Machines
-        All these models are trained on the dataset and evaluation of the model is done with the test dataset. The elaborate details of the models & its training are              mentioned in
+        All these models are trained on the dataset and evaluation of the model is done with the test dataset. The elaborate details of the models & its training are              mentioned in  https://github.com/IBM-EPBL/IBM-Project-49729-1660837038/blob/main/FINAL%20DELIVERABLES/Model%20Building/Phishing%20URL%20Detection%20.ipynb
                
