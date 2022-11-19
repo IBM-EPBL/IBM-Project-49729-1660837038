@@ -1,4 +1,4 @@
-# IBM-Project-49729-1660837038
+# IBM-Project-49729-1660837038 
 Web Phishing Detection
 # PROJECT OBJECTVE
 We'll be able to understand the problem to classify if it is a regression or a classification kind of problem. We will be able to know how to pre-process/clean the data using different data pre-processing techniques. Applying different algorithms according to the dataset We will be able to know how to find the accuracy of the model. We will be able to build web applications using the Flask framework.
@@ -20,4 +20,13 @@ This data set comes under classification problem, as the input URL is classified
         *XGBoost
         *Support Vector Machines
         All these models are trained on the dataset and evaluation of the model is done with the test dataset. The elaborate details of the models & its training are              mentioned in  https://github.com/IBM-EPBL/IBM-Project-49729-1660837038/blob/main/FINAL%20DELIVERABLES/Model%20Building/Phishing%20URL%20Detection%20.ipynb
-               
+                
+# WEB PHISHING DECTION 
+Team ID: PNTIBM2022TMID32416
+Team Size:4
+Team Lead: Janani U
+Team Member1: Dhivya E
+Team Member2: Kayalvizhi B
+Team Member3: Vengatesan D
+
+
