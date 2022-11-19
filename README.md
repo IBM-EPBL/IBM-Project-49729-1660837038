@@ -4,10 +4,15 @@
 
 # WEB PHISHING DECTION 
 Team ID: PNTIBM2022TMID32416
+
  Team Size:4
+ 
  *Team Lead: Janani U
+ 
  *Team Member1: Dhivya E
+ 
  *Team Member2: Kayalvizhi B
+ 
  *Team Member3: Vengatesan D
  
  ![IMG-20221119-WA0002](https://user-images.githubusercontent.com/113712038/202849007-618447e2-ed74-4eac-896d-5bb48224b642.jpg)
