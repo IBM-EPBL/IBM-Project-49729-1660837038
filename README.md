@@ -31,6 +31,9 @@ The given data contains both phishing and benign URLs of websites with various w
 ![199578614-f8cb7f81-9da0-43a8-b6eb-5381970a9768](https://user-images.githubusercontent.com/113712038/202847292-7f4cf056-f412-4d2d-8f50-91a2d40b9517.png)
 
 # MODELS &TRAINING
+
+![Deep-Learning-vs-Machine-Learning](https://user-images.githubusercontent.com/113712038/202849805-720a7a20-7ef9-4de0-b6e9-7198d80cf1ca.jpg)
+
 Before stating the ML model training, the data is split into 80-20 i.e., 8844 training samples & 2211 testing samples. From the dataset, it is clear that this is a supervised machine learning task. There are two major types of supervised machine learning problems, called classification and regression.
 
 This data set comes under classification problem, as the input URL is classified as phishing (1) or legitimate (0). The supervised machine learning models (classification) considered to train the dataset in this project are:
